@@ -201,4 +201,251 @@ elif n=="chander prabha":
     print("Tuesday       03:00pm to 04:00pm       Newton block-207")
     print("Wednesday     11:20am to 12:20pm       Newton block-207")
     print("Friday        10:15am to 11:15am       Newton block-207")
+    elif n=="chander prabha":
+    print("Section A")
+    print("Monday        09:30am to 10:30am       Newton block-201")
+    print("Wednesday     02:00pm to 03:00pm       Newton block-201")
+    print("Friday        09:00am to 10:00am       Newton block-201")
+    print("")
+    print("Section B")
+    print("Monday        03:00pm to 04:00pm       Newton block-202")
+    print("Wednesday     12:30pm to 01:30pm       Newton block-202")
+    print("Friday        02:00pm to 03:00pm       Newton block-202")
+    print("")
+    print("Section T")
+    print("Tuesday       03:00pm to 04:00pm       Newton block-207")
+    print("Wednesday     11:20am to 12:20pm       Newton block-207")
+    print("Friday        10:15am to 11:15am       Newton block-207")
     
+elif n==("sunny"):
+    print("Section A")
+    print("Monday        11:30am to 12:30pm       Turing block-301")
+    print("Tuesday       11:30am to 12:30pm       Turing block-301")
+    print("Wednesday     09:00am to 10:00am       Turing block-301")
+    print("")
+    print("Section B")
+    print("Wednesday     10:30am to 11:30am       Turing block-302")
+    print("Thursday      10:00am to 11:00am       Turing block-302")
+    print("Friday        11:00am to 12:00pm       Turing block-302")
+    print("")
+    print("Section T")
+    print("Wednesday     10:15am to 11:15am       Turing block-307")
+    print("Thursday      09:00am to 10:00am       Turing block-307")
+    print("Friday        09:00am to 10:00am       turing block-307")
+    
+elif n==("mudita"):
+    print("Section A")
+    print("Monday        02:00pm to 03:00pm       Turing block-301")
+    print("Thursday      03:00pm to 04:00pm       Turing block-301")
+    print("Friday        02:00pm to 03:00pm       Turing block-301")
+    print("")
+    print("Section B")
+    print("Monday        09:00am to 10:00am       Turing block-302")
+    print("Tuesday       09:30am to 10:30am       Turing block-302")
+    print("Friday        09:00am to 10:00am       Turing block-302")
+    print("")
+    print("Section T")
+    print("Monday        10:00am to 11:00am       Turing block-307")
+    print("Monday        11:30am to 12:30pm       Turing block-307")
+    print("Friday        01:00pm to 02:00pm       Turing block-307")
+    
+elif n==("sawapandeep kaur"):
+    print("Section A")
+    print("Tuesday       01:00pm to 02:00pm       Turing block-301")
+    print("Thursday      01:00pm to 02:00pm       Turing block-301")
+    print("Friday        10:15am to 11:15am       Turing block-301")
+    print("")
+    print("Section B")
+    print("Monday        11:00am to 12:00pm       Turing block-302")
+    print("Tuesday       02:00pm to 03:00pm       Turing block-302")
+    print("Thursday      03:00pm to 04:00pm       Turing block-302")
+    print("")
+    print("Section T")
+    print("Monday        12:45pm to 01:45pm       Turing block-307")
+    print("Tuesday       11:00am to 12:00pm       Turing block-307")
+    print("Thursday      11:00am to 12:00pm       Turing block-307")
+    
+elif n==("rahul sharma"):
+    print("Section A")
+    print("Wednesday     11:00am to 12:30pm       Edison block-401")
+    print("Thursday      10:00am to 11:30am       Edison block-401")
+    print("")
+    print("Section B")
+    print("Tuesday       11:00am to 12:30pm       Edison block-402")
+    print("Wednesday     02:00pm to 03:30pm       Edison block-402")
+    print("")
+    print("Section T")
+    print("Tuesday       09:00am to 10:30am       Edison block-407")
+    print("Wednesday     03:00pm to 04:30pm       Edison block-407")
+    
+elif n==("komal kakkar"):
+    print("Section C")
+    print("Monday        09:00am to 10:00am       Newton block-203")
+    print("Wednesday     11:00am to 12:00pm       Newton block-203")
+    print("friday        01:00pm to 02:00pm       Newton block-203")
+    print("")
+    print("Section D")
+    print("Monday        02:00pm to 03:00pm       Newton block-204")
+    print("Wednesday     12:00pm to 01:00pm       Newton block-204")
+    print("Friday        11:00am to 12:00pm       Newton block-204")
+    
+elif n==("ranveer"):
+    print("Section C")
+    print("Tuesday       11:30am to 01:00pm       Edison block-403")
+    print("Wednesday     02:00pm to 03:30pm       Edison block-403")
+    print("")
+    print("Section D")
+    print("Tuesday       09:30am to 11:00am       Edison block-404")
+    print("Wednesday     01:00pm to 02:30pm       Edison block-404")
+    
+elif n==("neetu goel"):
+    print("Section C")
+    print("Monday        10:30am to 11:30am       Turing block-303")
+    print("Tuesday       02:30pm to 03:30pm       Turing block-303")
+    print("Friday        09:00am to 10:00am       Turing block-303")
+    print("")
+    print("Section D")
+    print("Monday        09:00am to 10:00am       Turing block-304")
+    print("Tuesday       01:00pm to 02:00pm       Turing block-304")
+    print("Friday        02:30pm to 03:30pm       Turing block-304")
+    
+elif n==("suman"):
+    print("Section C")
+    print("Monday        02:00pm to 03:00pm       Turing block-303")
+    print("Tuesday       01:15pm to 02:15pm       Turing block-303")
+    print("Thursday      11:30am to 12:30pm       Turing block-303")
+    print("")
+    print("Section D")
+    print("Monday        11:00am to 12:00pm       Turing block-304")
+    print("Tuesday       11:30am to 12:30pm       Turing block-304")
+    print("Thursday      03:00pm to 04:00pm       Turing block-304")
+    
+elif n==("vinod"):
+    print("Section C")
+    print("Wednesday     09:00am to 10:00am       Turing block-303")
+    print("Thursday      10:00am to 11:00am       Turing block-303")
+    print("Friday        11:00am to 12:00pm       Turing block-303")
+    print("")
+    print("Section D")
+    print("Wednesday     10:00am to 11:00am       Turing block-304")
+    print("Thursday      11:30am to 12:30pm       Turing block-304")
+    print("Friday        09:45am to 10:45am       Turing block-304")
+    
+elif n==("armaan"):
+    print("Section E")
+    print("Wednesday     09:00am to 10:00am       Turing block-305")
+    print("Thursday      09:15am to 10:15am       Turing block-305")
+    print("Friday        11:00am to 12:00pm       Turing block-305")
+    print("")
+    print("Section F")
+    print("Wednesday     03:00pm to 04:00pm       Turing block-306")
+    print("Thursday      11:15am to 12:15pm       Turing block-306")
+    print("Friday        03:00pm to 04:00pm       Turing block-306")
+    
+elif n==("arin"):
+    print("Section E")
+    print("Monday        09:00am to 10:00am       Newton block-205")
+    print("Wednesday     10:30am to 11:30am       Newton block-205")
+    print("Friday        12:30pm to 01:30pm       Newton block-205")
+    print("")
+    print("Section F")
+    print("Monday        10:15am to 11:15am       Newton block-206")
+    print("Tuesday       09:00am to 10:00am       Newton block-206")
+    print("Wednesday     09:00am to 10:00am       Newton block-206")
+    
+elif n==("ankit"):
+    print("Section E")
+    print("Tuesday       09:00am to 10:30am       Edison block-405")
+    print("Wednesday     01:30pm to 03:00pm       Edison block-405")
+    print("Section F")
+    print("Tuesday       10:45am to 12:15pm       Edison block-406")
+    print("Wednesday     11:00am to 12:30pm       Edison block-406")
+    
+elif n==("ansh"):
+    print("Section E")
+    print("Monday        02:00pm to 03:00pm       Turing block-305")
+    print("Tuesday       11:30am to 12:30pm       Turing block-305")
+    print("Thursday      10:30am to 11:30am       Turing block-305")
+    print("")
+    print("Section F")
+    print("Monday        09:00am to 10:00am       Turing block-306")
+    print("Tuesday       12:00pm to 01:00pm       Turing block-306")
+    print("Thursday      09:00am to 10:00am       Turing block-306")
+    
+elif n==("amitoj"):
+    print("Section E")
+    print("Monday        11:00am to 12:00pm       Turing block-305")
+    print("Tuesday       12:30pm to 01:30pm       Turing block-305")
+    print("Friday        01:45pm to 02:45pm       Turing block-305")
+    print("")
+    print("Section F")
+    print("Monday        12:30pm to 01:30pm       Turing block-306")
+    print("Friday        09:15am to 10:15am       Turing block-306")
+    print("Friday        12:30pm to 01:30pm       Turing block-306")
+elif n == "chander prabha ft":
+
+    print("Monday   11:30am to 2:00pm   free time")
+    print("Tuesday  11:30am to 2:00pm   free time")
+    print("wednesday 10:30am to 1:00pm   free time")
+    print("Thursday  12:30am to 2:00pm   free time")
+    print("Friday    9:00am to 12:00pm   free time")
+    
+elif n=="sunny ft"  :
+    print("Monday   9:30am to 11:00pm   free time")
+    print("Tuesday  12:30am to 2:00pm   free time")
+    print("wednesday 10:30am to 1:00pm   free time")
+    print("Thursday  1:30am to 3:00pm   free time")
+    print("Friday    10:00am to 12:00pm   free time")
+    
+elif n == "swapanndep Kaur ft":
+    print("Monday   9:00am to 12:00pm   free time")
+    print("Tuesday  11:30am to 2:00pm   free time")
+    print("wednesday 11:30am to 1:00pm   free time")
+    print("Thursday  1o:30am to 12:00pm   free time")
+    print("Friday    9:00am to 12:00pm   free time")
+    
+elif n == "vinod ft":
+    print("Monday   9:00am to 2:00pm   free time")
+    print("Tuesday  11:30am to 3:00pm   free time")
+    print("wednesday 11:30am to 1:00pm   free time")
+    print("Thursday  12:30am to 3:00pm   free time")
+    print("Friday    9:00am to 12:00pm   free time")
+    
+elif n == "armaan ft":
+    print("Monday   12:00am to 2:00pm   free time")
+    print("Tuesday  11:30am to 3:00pm   free time")
+    print("wednesday 10:30am to 12:00pm   free time")
+    print("Thursday  1:30am to 4:30pm   free time")
+    print("Friday    10:00am to 12:00pm   free time")
+    
+elif n == "arin ft":
+    print("Monday   2:00am to 4:00pm   free time")
+    print("Tuesday  2:30am to 4:00pm   free time")
+    print("wednesday 10:30am to 1:00pm   free time")
+    print("Thursday  12:30am to 3:00pm   free time")
+    print("Friday    9:00am to 12:00pm   free time")
+    
+elif n == "ankit ft":
+    print("Monday   2:00am to 4:00pm   free time")
+    print("Tuesday  2:30am to 4:00pm   free time")
+    print("wednesday 10:30am to 1:00pm   free time")
+    print("Thursday  12:30am to 3:00pm   free time")
+    print("Friday    9:00am to 12:00pm   free time")
+    
+elif n == "ansh ft":
+    print("Monday   2:00am to 4:00pm   free time")
+    print("Tuesday  2:30am to 4:00pm   free time")
+    print("wednesday 10:30am to 1:00pm   free time")
+    print("Thursday  12:30am to 3:00pm   free time")
+    print("Friday    9:00am to 12:00pm   free time")
+    
+elif n == "amitoj ft":
+    print("Monday   12:00am to 3:00pm   free time")
+    print("Tuesday  2:30am to 4:00pm   free time")
+    print("wednesday 10:30am to 1:00pm   free time")
+    print("Thursday  12:30am to 3:00pm   free time")
+    print("Friday    9:00am to 1:00pm   free time")
+    
+elif n == "mudita ft":
+    print("Monday   2:00am to 4:00pm   free time")
+    print("Tuesday  2:30am to 4:00pm   fre
